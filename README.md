@@ -1,24 +1,88 @@
 ![logo](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
+
 <h1 align="center">Hi 👋, I'm Sajat Bajracharya</h1>
-<h3 align="center">Passionate about learning</h3>
+<h3 align="center">Passionate about Learning and Exploring New Technologies</h3>
 
+---
 
+- 👨‍💻 **Portfolio**: [sajatbajracharya.com.np](http://sajatbajracharya.com.np)
+- 📫 **Reach me at**: **sajatbazz@gmail.com**
 
-- 👨‍💻 Portfolio: [sajatbajracharya.com.np](http://sajatbajracharya.com.np)
+---
 
-- 📫 How to reach me **sajatbazz@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/sajat_bajrac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sajat_bajrac" height="30" width="40" /></a>
-<a href="https://discord.gg/shinu_3414" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shinu_3414" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sajat-bajracharya-3b8568229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajat-bajracharya-3b8568229" height="30" width="40" /></a>
+<h3 align="center">🌐 Connect with me:</h3>
+<p align="center">
+  <a href="https://instagram.com/sajat_bajrac" target="blank" style="margin-right: 10px;">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
+  </a>
+  <a href="https://discord.gg/shinu_3414" target="blank" style="margin-right: 10px;">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord"/>
+  </a>
+  <a href="https://linkedin.com/in/sajat-bajracharya-3b8568229" target="blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+  </a>
 </p>
 
-<h3 align="left">Languages, Frameworks and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a><a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-<hr>
+---
+
+<h3 align="center">💻 Languages, Frameworks & Tools</h3>
+<p align="center">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=c" alt="C" style="margin: 5px;"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" style="margin: 5px;"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" style="margin: 5px;"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="margin: 5px;"/>
+  </a>
+  <a href="https://jquery.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" style="margin: 5px;"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=react" alt="React" style="margin: 5px;"/>
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" style="margin: 5px;"/>
+  </a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" style="margin: 5px;"/>
+  </a>
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=matlab" alt="MATLAB" style="margin: 5px;"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" style="margin: 5px;"/>
+  </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=php" alt="PHP" style="margin: 5px;"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=flask" alt="Flask" style="margin: 5px;"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" style="margin: 5px;"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" style="margin: 5px;"/>
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=express" alt="Express" style="margin: 5px;"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" style="margin: 5px;"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" style="margin: 5px;"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" style="margin: 5px;"/>
+  </a>
+</p>
+
+---
 
 [![An image of @shinuster's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shinuster)](https://holopin.io/@shinuster)
