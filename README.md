@@ -3,30 +3,39 @@
 <h1 align="center">Hi 👋, I'm Sajat Bajracharya</h1>
 <h3 align="center">Passionate about Learning and Exploring New Technologies</h3>
 
----
+
 
 - 👨‍💻 **Portfolio**: [sajatbajracharya.com.np](http://sajatbajracharya.com.np)
 - 📫 **Reach me at**: **sajatbazz@gmail.com**
 
----
 
-<h3 align="center">🌐 Connect with me:</h3>
-<p align="center">
-  <a href="https://instagram.com/sajat_bajrac" target="blank" style="margin-right: 10px;">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
-  </a>
-  <a href="https://discord.gg/shinu_3414" target="blank" style="margin-right: 10px;">
-    <img src="https://skillicons.dev/icons?i=discord" alt="Discord"/>
-  </a>
-  <a href="https://linkedin.com/in/sajat-bajracharya-3b8568229" target="blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
-  </a>
-</p>
 
----
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    <h3>🌐 Connect with me:</h3>
+    <p>
+      <a href="https://instagram.com/sajat_bajrac" target="blank" style="margin-right: 10px;">
+        <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
+      </a>
+      <a href="https://discord.gg/shinu_3414" target="blank" style="margin-right: 10px;">
+        <img src="https://skillicons.dev/icons?i=discord" alt="Discord"/>
+      </a>
+      <a href="https://linkedin.com/in/sajat-bajracharya-3b8568229" target="blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+      </a>
+    </p>
+  </div>
 
-<h3 align="center">💻 Languages, Frameworks & Tools</h3>
-<p align="center">
+</div>
+
+
+
+
+
+
+
+<h3 align="left">💻 Languages, Frameworks & Tools</h3>
+<p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=c" alt="C" style="margin: 5px;"/>
   </a>
